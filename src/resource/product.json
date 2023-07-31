@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "title": "Wireless Bluetooth Earbuds",
+    "description": "High-quality wireless earbuds with noise cancellation.",
+    "price": 79.99,
+    "currency": "USD",
+    "image": "https://cdn.thewirecutter.com/wp-content/media/2022/11/wirelessearbuds-2048px-8829.jpg?auto=webp&quality=75&width=1024",
+    "rating": 4.7
+  },
+  {
+    "id": 2,
+    "title": "Smartwatch Fitness Tracker",
+    "description": "Track your daily activities and heart rate with this stylish smartwatch.",
+    "price": 129.99,
+    "currency": "USD",
+    "image": "https://m.media-amazon.com/images/I/71JU-bUt-sL.jpg",
+    "rating": 4.6
+  },
+  {
+    "id": 3,
+    "title": "Ultra HD Action Camera",
+    "description": "Capture your adventures in stunning 4K with this action camera.",
+    "price": 159.99,
+    "currency": "USD",
+    "image": "https://falabella.scene7.com/is/image/FalabellaCO/gsc_117575547_1812095_2?wid=800&hei=800&qlt=70",
+    "rating": 4.4
+  },
+  {
+    "id": 4,
+    "title": "Portable External SSD Drive",
+    "description": "Fast and reliable external SSD drive for your data storage needs.",
+    "price": 189.99,
+    "currency": "USD",
+    "image": "https://m.media-amazon.com/images/I/51czwFxVq5L.jpg",
+    "rating": 4.9
+  },
+  {
+    "id": 5,
+    "title": "Gaming Mechanical Keyboard",
+    "description": "Mechanical gaming keyboard with customizable RGB lighting.",
+    "price": 89.99,
+    "currency": "USD",
+    "image": "https://sc04.alicdn.com/kf/HTB1O5LDbznD8KJjSspbq6zbEXXax.jpg",
+    "rating": 4.5
+  },
+  {
+    "id": 6,
+    "title": "Wireless Gaming Mouse",
+    "description": "Responsive and ergonomic wireless mouse for gaming enthusiasts.",
+    "price": 49.99,
+    "currency": "USD",
+    "image": "https://m.media-amazon.com/images/I/61I8BjnzubL._AC_SL1000_.jpg",
+    "rating": 4.3
+  },
+  {
+    "id": 7,
+    "title": "Noise-Canceling Headphones",
+    "description": "Immerse yourself in music with these noise-canceling headphones.",
+    "price": 199.99,
+    "currency": "USD",
+    "image": "https://cdn.thewirecutter.com/wp-content/media/2022/12/noisecancellingheadphones-2048px-8869.jpg",
+    "rating": 4.8
+  },
+  {
+    "id": 8,
+    "title": "Ultra-Thin Laptop",
+    "description": "Lightweight and powerful laptop for productivity on the go.",
+    "price": 999.99,
+    "currency": "USD",
+    "image": "https://klass-electronics.com/media/catalog/product/cache/7c1e10ae0901b684f0e0ef85fd7ffe00/6/4/6444337_sd.jpg",
+    "rating": 4.6
+  },
+  {
+    "id": 9,
+    "title": "Portable Bluetooth Speaker",
+    "description": "Take your music anywhere with this compact Bluetooth speaker.",
+    "price": 39.99,
+    "currency": "USD",
+    "image": "https://m.media-amazon.com/images/I/81r0UVaITHL.jpg",
+    "rating": 4.2
+  },
+  {
+    "id": 10,
+    "title": "4K UHD Smart TV",
+    "description": "Enjoy your favorite content in stunning 4K resolution on this smart TV.",
+    "price": 799.99,
+    "currency": "USD",
+    "image": "https://www.lg.com/co/images/televisores/md05972537/gallery/medium01.jpg",
+    "rating": 4.7
+  },
+  {
+    "id": 11,
+    "title": "DJI Phantom 4 Drone",
+    "description": "Capture breathtaking aerial footage with this high-end drone.",
+    "price": 1199.99,
+    "currency": "USD",
+    "image": "https://www.compelelectronica.com/wp-content/uploads/dji-phantom-4.jpg",
+    "rating": 4.4
+  },
+  {
+    "id": 12,
+    "title": "Home Security Camera System",
+    "description": "Keep an eye on your home with this advanced security camera system.",
+    "price": 249.99,
+    "currency": "USD",
+    "image": "https://www.atlanticcompanies.net/media/zoo/images/smart-home-security-home-security-system-home-security-cameras_5a824bf23f91ed9332048bb7b803a8b1.jpg",
+    "rating": 4.5
+  },
+  {
+    "id": 13,
+    "title": "Professional DSLR Camera",
+    "description": "Capture stunning photos and videos with this high-quality DSLR camera.",
+    "price": 1499.99,
+    "currency": "USD",
+    "image": "https://blog.keh.com/wp-content/uploads/2023/02/Alex-S-1DX-1-1024x661.jpg",
+    "rating": 4.9
+  },
+  {
+    "id": 14,
+    "title": "Wireless Charging Pad",
+    "description": "Charge your devices wirelessly with this sleek charging pad.",
+    "price": 29.99,
+    "currency": "USD",
+    "image": "https://www.zdnet.com/a/img/resize/e09a2b37c7d2ad4053528c211775a3b6d155d869/2023/04/13/9d23b95a-7d8d-4f15-a463-1edc5c7db352/anker-313-wireless-charger.jpg?auto=webp&fit=crop&height=900&width=1200",
+    "rating": 4.1
+  },
+  {
+    "id": 15,
+    "title": "Robotic Vacuum Cleaner",
+    "description": "Let this robot vacuum take care of your cleaning tasks.",
+    "price": 349.99,
+    "currency": "USD",
+    "image": "https://m.media-amazon.com/images/I/71ZROTgDScL.jpg",
+    "rating": 4.3
+  },
+  {
+    "id": 16,
+    "title": "Electric Scooter",
+    "description": "Efficient and eco-friendly electric scooter for short commutes.",
+    "price": 399.99,
+    "currency": "USD",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn-kWN7FnmGcloWEIBB2gm1Bw8VVSMr7REJY-abQUn-GZYpCnbhXsHVRmBt8gRVFDHlV4&usqp=CAU",
+    "rating": 4.6
+  },
+  {
+    "id": 17,
+    "title": "Smart Home Thermostat",
+    "description": "Control your home's temperature with your smartphone.",
+    "price": 129.99,
+    "currency": "USD",
+    "image": "data:image/jpeg;base64,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",
+    "rating": 4.2
+  },
+  {
+    "id": 18,
+    "title": "Bluetooth Noise-Canceling Headphones",
+    "description": "Immerse yourself in music with these wireless noise-canceling headphones.",
+    "price": 149.99,
+    "currency": "USD",
+    "image": "https://www.soundguys.com/wp-content/uploads/2021/04/bose-noise-cancelling-headphones-700-product-image-format.jpg",
+    "rating": 4.7
+  },
+  {
+    "id": 19,
+    "title": "Portable Power Bank",
+    "description": "Keep your devices charged on the go with this portable power bank.",
+    "price": 49.99,
+    "currency": "USD",
+    "image": "https://m.media-amazon.com/images/I/51lBsi0W9uL.jpg",
+    "rating": 4.4
+  },
+  {
+    "id": 20,
+    "title": "Wireless Gaming Headset",
+    "description": "Immerse yourself in the gaming world with this wireless headset.",
+    "price": 79.99,
+    "currency": "USD",
+    "image": "https://m.media-amazon.com/images/I/41KTfLEChqL._AC_.jpg",
+    "rating": 4.5
+  }]
+  
