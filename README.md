@@ -1,6 +1,8 @@
 # Test in Next.js with TypeScript by Nestor Barraza Otalvarez
 
-## This project is built using Next.js with TypeScript. It is currently running on Vercel at the following link: Project Link on Vercel.
+## This project is built using Next.js with TypeScript. It is currently running on Vercel at the following link: 
+
+https://next-challenge-lac.vercel.app/
 
 If you want to test it locally, follow these steps:
 
