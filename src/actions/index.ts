@@ -8,7 +8,7 @@ export const fetchProducts = async () => {
   Store.dispatch(fetchProductsPending());
 
   try {
-    const response = await axios.get<Product[]>('http://localhost:3000/api/product');
+    const response = await axios.get<Product[]>('https://next-challenge-lac.vercel.app/api/product');
     Store.dispatch(fetchProductsFulfilled(response.data));
     return response.data;
   } catch (error:unknown) {
